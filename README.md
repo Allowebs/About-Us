@@ -5,7 +5,15 @@
     </p>
 </h1>
 <h3 align="center">A team of developer from Canada</h3>
-
+<h3 align="center">Connect with us:</h3>
+<p align="center">
+    <a href="https://linkedin.com/in/adryan-s-42288711a" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="adryan-s-42288711a" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/6127121" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="6127121" height="30" width="40" /></a>
+</p>
 <p align="left">
     - 🔭 We're currently working on [PaaS](allowebs.com) <br>
     - 👯 We're looking to collaborate on [PaaS](allowebs.com) <br>
@@ -18,17 +26,6 @@
 
 <p><img align="left" src="github-metrics.svg" /></p>
 <p><img align="right" src="pagespeed.screenshot.svg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allowebs&" alt="Allowebs" /></p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/adryan-s-42288711a" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="adryan-s-42288711a" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/6127121" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="6127121" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img
