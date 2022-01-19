@@ -24,12 +24,8 @@
     - 📄 Know about our experiences [allowebs.com/portfolio](allowebs.com/portfolio)
 </p>
 
-<p><img align="left" src="github-metrics.svg" /></p>
-<p><img align="right" src="pagespeed.screenshot.svg" /></p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img
             src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg"
             alt="11ty" width="40" height="40" /> </a> <a href="https://developer.android.com" target="_blank"
         rel="noreferrer"> <img
@@ -186,3 +182,6 @@
             width="40" height="40" /> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a>
 </p>
+
+<p><img align="left" src="github-metrics.svg" /></p>
+<p><img align="right" src="pagespeed.screenshot.svg" /></p>
