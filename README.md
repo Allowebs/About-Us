@@ -182,6 +182,6 @@
             width="40" height="40" /> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a>
 </p>
-
-<p><img align="left" src="github-metrics.svg" /></p>
-<p><img align="right" src="pagespeed.screenshot.svg" /></p>
+<p align="center">
+   <img src="github-metrics.svg" alt="stats"/>
+</p>
