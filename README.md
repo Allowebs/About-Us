@@ -16,7 +16,8 @@
     - 📄 Know about our experiences [allowebs.com/portfolio](allowebs.com/portfolio)
 </p>
 
-<p><img align="center" src="github-metrics.svg" /></p>
+<p><img align="left" src="github-metrics.svg" /></p>
+<p><img align="right" src="pagespeed.screenshot.svg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allowebs&" alt="Allowebs" /></p>
 <h3 align="left">Connect with me:</h3>
