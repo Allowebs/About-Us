@@ -6,8 +6,6 @@
 </h1>
 <h3 align="center">A team of developer from Canada</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Allowebs&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left">
     - 🔭 We're currently working on [PaaS](allowebs.com) <br>
     - 👯 We're looking to collaborate on [PaaS](allowebs.com) <br>
@@ -18,12 +16,7 @@
     - 📄 Know about our experiences [allowebs.com/portfolio](allowebs.com/portfolio)
 </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Allowebs&show_icons=true&locale=en&layout=compact"
-        alt="Allowebs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Allowebs&show_icons=true&locale=en"
-        alt="Allowebs" /></p>
+<p><img align="center" src="github-metrics.svg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allowebs&" alt="Allowebs" /></p>
 <h3 align="left">Connect with me:</h3>
